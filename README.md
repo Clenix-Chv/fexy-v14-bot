@@ -10,9 +10,11 @@ ilk bi içine bak sonra konuş bunu diyen elemanların kendisi 2 satır kod dahi
 neyse toplama bot alın kullanın hatası var ama ufak tefek botun çalışmasını engellemiyor onuda bilerek çözmedim
 zaten paylaşıcam siz kendiniz çözersiniz + olarak görev komutunda invite görevini tanımlamadım onada göz atarsınız kendiniz
 
+botu paylaşma sebebim bir sürü türeme botçuların altyapımı kullanıp ben botçuyum diye gezmesi üstüne pahalıya bot yapması sonucu bu altyapıyı paylaştım sizlere dilediğiniz gibi kullanabilirsiniz.
+
 
 Projeye yardım eden asalaklar
-`Fexy. Clenix`
+`Fexy. Clenix ve algos`
 
 Projeyi Yeniliyorum bazıları hata aldığını falan söyledi.
 
